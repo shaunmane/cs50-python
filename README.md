@@ -1,5 +1,10 @@
 # CS50 Python Problem Sets
 
+[![GitHub stars](https://img.shields.io/github/stars/shaunmane/cs50-python.svg?style=social&label=Star&maxAge=2592000)](https://github.com/shaunmane/cs50-python/stargazers/)
+[![GitHub forks](https://img.shields.io/github/forks/shaunmane/cs50-python.svg?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/shaunmane/cs50-python/network/)
+[![GitHub license](https://img.shields.io/github/license/shaunmane/cs50-python.svg)](https://github.com/shaunmane/cs50-python/blob/master/LICENSE.md)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+
 This repository contains my solutions to the problem sets for CS50's Introduction to Programming with Python course. Each problem set is a collection of programming assignments that cover various concepts and topics in Python.
 
 ## Table of Contents
@@ -43,4 +48,4 @@ Contributions to this repository are generally not accepted, as it primarily ser
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Please review the license file for more information.
+This project is licensed under the [MIT License](LICENSE.md). Please review the license file for more information.
