@@ -48,4 +48,4 @@ Contributions to this repository are generally not accepted, as it primarily ser
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE.md). Please review the license file for more information.
+This project is licensed under the [MIT License](https://github.com/shaunmane/cs50-python?tab=MIT-1-ov-file). Please review the license file for more information.
